@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ParseIQ logo">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="52" height="52" rx="12" fill="#0b1220" />
+  <path
+    d="M18 22h19c5.5 0 9 3.2 9 8s-3.5 8-9 8h-9.5"
+    fill="none"
+    stroke="url(#g1)"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+  <path
+    d="M18 38h12c5 0 8 2.8 8 6.2C38 48.3 34.5 51 29.5 51H18"
+    fill="none"
+    stroke="url(#g2)"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+  <circle cx="18" cy="22" r="3" fill="#22d3ee" />
+  <circle cx="18" cy="38" r="3" fill="#a855f7" />
+  <circle cx="18" cy="51" r="3" fill="#6366f1" />
+</svg>
